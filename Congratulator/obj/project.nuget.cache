@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXJb8W414iA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuvel\\source\\repos\\Congratulator\\Congratulator\\Congratulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuvel\\.nuget\\packages\\npgsql\\4.1.14\\npgsql.4.1.14.nupkg.sha512",
+    "C:\\Users\\kuvel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

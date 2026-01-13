@@ -1,0 +1,17 @@
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Congratulator.exe
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Congratulator.deps.json
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Congratulator.runtimeconfig.json
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Congratulator.dll
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Congratulator.pdb
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\bin\Debug\net8.0\Npgsql.dll
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.csproj.AssemblyReference.cache
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.AssemblyInfoInputs.cache
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.AssemblyInfo.cs
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.csproj.CoreCompileInputs.cache
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratu.9127AFC1.Up2Date
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.dll
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\refint\Congratulator.dll
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.pdb
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\Congratulator.genruntimeconfig.cache
+C:\Users\kuvel\source\repos\Congratulator\Congratulator\obj\Debug\net8.0\ref\Congratulator.dll

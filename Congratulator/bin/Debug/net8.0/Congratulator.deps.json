@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Congratulator/1.0.0": {
+        "dependencies": {
+          "Npgsql": "4.1.14"
+        },
+        "runtime": {
+          "Congratulator.dll": {}
+        }
+      },
+      "Npgsql/4.1.14": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Npgsql.dll": {
+            "assemblyVersion": "4.1.14.0",
+            "fileVersion": "4.1.14.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "Congratulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql/4.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o/C+aEIHaf9nWvzMhRfY/CUm4+y5sx/OojWtFk4nFPs05tjLmh8QvLuRDNstNFEONRuQ0CDcoyHIv9qThqvzGQ==",
+      "path": "npgsql/4.1.14",
+      "hashPath": "npgsql.4.1.14.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    }
+  }
+}
